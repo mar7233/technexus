@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+weights/*.pt
+data/
+*.mp4
+*.json
+!**/package.json
